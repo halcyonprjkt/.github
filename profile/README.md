@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Exploring ideas, rewriting logic, and experimenting with automation.<br>
+  Exploring ideas, rewriting logic, and experimenting with automation. <br>
   Nothing official — just a lab.
 </p>
 
